@@ -4,3 +4,5 @@ class Character {
 		this.name = name;
 	}
 }
+
+// test
