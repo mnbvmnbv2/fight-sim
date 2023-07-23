@@ -1,3 +1,3 @@
-# fightSim
+# fight-sim
 
-https://mnbvmnbv2.github.io/fightSim/
+https://mnbvmnbv2.github.io/fight-sim/
